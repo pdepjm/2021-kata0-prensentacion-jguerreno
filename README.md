@@ -6,3 +6,6 @@ Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vTNH
 
 
 ![mi foto](Juan.jpg)
+
+## Presentacion
+Me gusta jugar al futbol y caminar.
